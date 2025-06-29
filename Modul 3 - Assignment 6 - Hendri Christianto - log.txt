@@ -1,0 +1,4 @@
+[MCP LOG] PORT environment variable is missing!
+Error: PORT environment variable is missing!
+    at Object.<anonymous> (src/index.ts:15:9)
+    ...
